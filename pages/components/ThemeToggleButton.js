@@ -1,6 +1,6 @@
-'use client';
-import React from 'react';
-import { ThemeContext } from './ThemeProvider';
+"use client";
+import React from "react";
+import { ThemeContext } from "./ThemeProvider";
 
 const ThemeToggleButton = () => {
   return <></>;
